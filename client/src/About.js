@@ -39,7 +39,7 @@ class About extends Component {
                   <span className="subheading">Be Part of our Business</span>
                   <h3>Request A Free Quote</h3>
                 </div>
-                <form action="#" className="request-form ftco-animate">
+                <form action="#" className="request-form ftco-animate fadeInUp ftco-animated">
                   <div className="form-group">
                     <input
                       type="text"
@@ -98,7 +98,7 @@ class About extends Component {
                 </form>
               </div>
             </div>
-            <div className="col-md-8 wrap-about py-5 ftco-animate">
+            <div className="col-md-8 wrap-about py-5 ftco-animate fadeInUp ftco-animated">
               <div className="heading-section mb-5">
                 <h2 className="mb-4">A Few Words About Us</h2>
               </div>
